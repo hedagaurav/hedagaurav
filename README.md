@@ -1,16 +1,14 @@
-### Hi there 👋
+## Namaste:pray: I'm Gaurav Heda
 
-<!--
-**hedagaurav/hedagaurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on php projects.
+- 🌱 I’m currently learning frontend:computer: development.
+- 👯 I’m looking to collaborate on ...:grey_exclamation:
+- 🤔 I’m looking for help with making tutorials:video_camera: for youtube.
+- 💬 Ask me about some help:handshake: if you need.
+- 📫 How to reach me: :e-mail:hedagaurav93@gmail.com
 - 😄 Pronouns: He /Him /Kuku
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...:warning:In the presence of a Great **FOOL**.
+
+
+:running_man::running_man::running_man: :walking_man:  :walking_man: **GO CORONA GO**
